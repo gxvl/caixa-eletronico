@@ -1,0 +1,20 @@
+Pessoa 1 está esperando na fila.
+Pessoa 1 está usando o caixa eletrônico.
+Pessoa 2 está esperando na fila.
+Pessoa 2 está esperando para usar o caixa eletrônico.
+Pessoa 4 está esperando na fila.
+Pessoa 4 está esperando para usar o caixa eletrônico.
+Pessoa 5 está esperando na fila.
+Pessoa 5 está esperando para usar o caixa eletrônico.
+Pessoa 3 está esperando na fila.
+Pessoa 3 está esperando para usar o caixa eletrônico.
+Pessoa 2 está usando o caixa eletrônico.
+Pessoa 5 está esperando para usar o caixa eletrônico.
+Pessoa 4 está esperando para usar o caixa eletrônico.
+Pessoa 3 está esperando para usar o caixa eletrônico.
+Pessoa 5 está usando o caixa eletrônico.
+Pessoa 4 está esperando para usar o caixa eletrônico.
+Pessoa 3 está esperando para usar o caixa eletrônico.
+Pessoa 4 está usando o caixa eletrônico.
+Pessoa 3 está esperando para usar o caixa eletrônico.
+Pessoa 3 está usando o caixa eletrônico.
